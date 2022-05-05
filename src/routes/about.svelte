@@ -1,3 +1,9 @@
+<script>
+	import Seo from '$lib/Seo.svelte';
+</script>
+
+<Seo title="About" />
+
 <h2 id="-about-me-">👨🏼‍💻 About Me:</h2>
 <p>I am a <mark>Full Stack Developer</mark> specializing in crafting user experiences.</p>
 <ul>
