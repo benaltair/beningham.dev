@@ -6,3 +6,5 @@
 <svelte:head>
 	<title>{assembledTitle}</title>
 </svelte:head>
+
+<!-- TODO: Import Svelte SEO library to fill this component out with more features (social, etc) -->
